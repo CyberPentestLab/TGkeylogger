@@ -5,7 +5,7 @@ TGkeylogger – a keylogger that regularly sends captured data directly to your 
 
 First, create your bot via Telegram’s official BotFather: https://t.me/BotFather
 
-Click /newbot.
+Click: /newbot.
 
 Choose a bot name, then a username (e.g., mytest_bot).
 
