@@ -47,3 +47,12 @@ The executable .exe file will be located in the "dist" folder.
 ![image](https://github.com/user-attachments/assets/e2c802a1-b6c7-42e1-8213-40c9c91ddf26)
 
 Executable file
+
+# Author
+
+Telegtam: https://t.me/grazdanin04
+
+# Support
+
+BTC - bc1qrmgpn7fpa3kcx5n5mcjr4hvtfhd9qdumsa3g7t
+TRX - TUGBb2BRjn2VWxvJwRddLFaCzNi7W231RA
