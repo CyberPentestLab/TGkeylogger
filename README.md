@@ -1,3 +1,25 @@
+For proper operation, install the following modules:
+
+pip install pynput Pillow requests pyperclip - (Open Command Prompt (CMD) or PowerShell and run this command).
+
+Use pip3 instead of pip if you have multiple Python versions installed:
+pip3 install pynput Pillow requests pyperclip
+
+Module Descriptions:
+pynput — Keyboard input tracking.
+Pillow — Screenshot creation.
+requests — Sending data to Telegram.
+pyperclip — Clipboard interaction.
+
+Add the --user flag if you lack administrator privileges:
+pip install --user pynput Pillow requests pyperclip
+
+After installation, check installed modules with:
+pip list
+
+Ensure pynput, Pillow, requests, and pyperclip are listed.
+
+
 # TGkeylogger
 
 Instructions:
